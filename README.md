@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+#Welcome to my MAGD 150 Projects!
+This is a compilation of my projects within the MAGD 150 class.
 
-You can use the [editor on GitHub](https://github.com/Andrinor1/MAGD-150-Projects/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+#Buildings
+This project draws a building on a street at night, simple as that.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Space
+This project draws some planets and a spaceship, with stars in the background.
 
-### Markdown
+#Root Beer
+This project draws bubbles floating up randomly in root beer.
+The red bubble can be controlled by clicking on the screen.
+By clicking to the left or right of the center of the screen, the size of the red bubble can be controlled.
+By clicking above or below the center of the screen, the speed of the bubble can be controlled.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Pizza
+This project draws a pizza. Clicking on the screen changes what kind of pizza is displayed.
+In addition, the word "Pizza" bounces around the screen.
 
-```markdown
-Syntax highlighted code block
+#TV
+This project draws a TV with two buttons.
+The "PWR" button turns on the 
+The "Cha" button changes the image that displays on the screen if the power is on.
 
-# Header 1
-## Header 2
-### Header 3
+#Fireball
+This project draws an animated fireball on a grid
+The purpose of this project was to create a grid system upon which pixel art could be created
 
-- Bulleted
-- List
+#Trees
+This project creates a random number of randomly colored trees at random positions.
 
-1. Numbered
-2. List
+#Shrek 8
+This project creates a movie poster for the upcoming "Shrek 8" movie.
 
-**Bold** and _Italic_ and `Code` text
+#Mirror
+This project creates a mirror in which you can see your own face.
+If you click, it cracks the mirror where you clicked, and makes a glass breaking sound.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Andrinor1/MAGD-150-Projects/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#Ruined City
+This project creates a cityscape in 3d that is sunken into sand.
+The camera can be controlled by the mouse.
